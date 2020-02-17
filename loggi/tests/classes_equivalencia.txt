@@ -1,0 +1,20 @@
+# Tipos de transporte:
+
+# classes de equivalênvia
+# moto
+# van
+# outros
+
+# saídas respectivas
+# 600 m
+# 1500 m
+# 743,59 m
+
+
+
+# Formatação de telefone:
+
+# classes de equivalência
+# 7 > telefone válido sem DDD > 10 dígitos
+# somente números
+
